@@ -2,11 +2,10 @@ brew = ☕ "Brewing a fresh pot of coffee...";
 
 puts brew;
 
-%———————— Supp, I’m `@CapyMag` ( ͡• ͜ʖ ͡• ) ————————%
+%———————— Supp, ( ͡• ͜ʖ ͡• ) ————————%
 
 ### About Me
 - 🤖 Mechatronics/CS student
-- 🌱 Currently exploring the world of automation & vertical farmings
 - ☕ Can't function without coffee. Always down to talk beans, brews & cafes!
 - 📸 Photography enthusiast capturing food & urban scenes
 - 💀 Nocturnal creature with a messed up sleep schedule
